@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ConfigCheck/ConfigCheck.iml" filepath="$PROJECT_DIR$/ConfigCheck/ConfigCheck.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaBasics0/JavaBasics0.iml" filepath="$PROJECT_DIR$/JavaBasics0/JavaBasics0.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MarkDownExample/MarkDownExample.iml" filepath="$PROJECT_DIR$/MarkDownExample/MarkDownExample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOPExample/OOPExample.iml" filepath="$PROJECT_DIR$/OOPExample/OOPExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortManagerProject.iml" filepath="$PROJECT_DIR$/SortManagerProject.iml" />
     </modules>
   </component>
 </project>
